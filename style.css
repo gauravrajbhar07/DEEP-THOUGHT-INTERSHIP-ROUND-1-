@@ -1,0 +1,365 @@
+    *{
+        background: #F5F5F5;
+    }
+
+    .navbar {
+        position: absolute;
+        width: 100%;
+        height: 90px;
+        left: 0px;
+        top: 0px;
+        background: #F0F0F0;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    }
+
+
+    img{
+        position: absolute;
+    left: 6.58%;
+    right: 90.26%;
+    top: 25%;
+    bottom: 75%;
+
+    border: 1px solid #FFFFFF;
+    }
+
+    .home{
+        position: absolute;
+        left: 79.17%;   
+        right: 19.65%;
+        top: 25%;
+        bottom: 97.84%;
+        font-family: 'Font Awesome 5 Free';
+        font-style: normal;
+        font-weight: 900;
+        font-size: 1px;
+        line-height: 17px;
+        letter-spacing: 0.02em;
+
+        color: #FFFFFF;
+    }
+    .tool{
+        
+        position: absolute;
+    left: 82.36%;
+    right: 15.56%;
+    top: 25%;
+
+    bottom: 97.12%;
+
+    /* info */
+
+    background: #3683F0;
+    }
+
+    .bell{
+        position: absolute;
+    left: 86.04%;
+    right: 11.79%;
+    top: 25%;
+    bottom: 97.09%;
+
+    /* info */
+
+    background: #3683F0;
+
+    }
+    .profile{
+
+        position: absolute;
+    width: 40.36px;
+    height: 40px;
+    left: 90%;
+
+
+
+    background: url("");
+    border-radius: 250px;
+
+    }
+
+    .threedots{
+        position: absolute;
+    width: 3.03px;
+    height: 2.99px;
+    left: 95%;
+    top:25%;
+
+
+    /* info */
+
+    background: #3683F0;
+    }
+
+    .mainsection{
+        box-sizing: border-box;
+
+        position: absolute;
+        width: 1136px;
+        height: 2849px;
+        left: 177px;
+        top: 273px;
+
+        background: #FFFFFF;
+        border: 1px solid #F0F0F0;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    }
+
+
+    .sectionHead{
+        position: absolute;
+        width: 1136px;
+        height: 51px;
+        left: 177px;
+        top: 222px;
+        background: #0029FF;
+        border-radius: 10px 10px 0px 0px;
+        color: white;
+        font-size: 20px;
+        font-weight: 500;
+    }
+
+    .svg{
+        position: absolute;
+        width: 445px;
+        height: 28px;
+        left: 10px;
+        top: 12px;
+
+    background: url(icons8-home.svg);
+    }
+
+    .container{
+        box-sizing: border-box;
+
+        position: absolute;
+        width: 1136px;
+        height: 2849px;
+        left: 177px;
+        top: 273px;
+        justify-content: center;
+        text-align: center;
+
+        background: #FFFFFF;
+        border: 1px solid #F0F0F0;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    }
+
+    .heading{
+        
+    font-size: 20px;
+    font-weight: 600;
+    position: absolute;
+    width: 165px;
+    height: 42px;
+    left : 463px;
+    top: 25px;
+
+    background: url(image.png);
+
+    }
+
+    .task1{
+        position: absolute;
+        width: 461px;
+        height: 320px;
+        left: 243px;
+        top: 403px;
+        border-radius: 10px;
+        background-color: whitesmoke;
+    }   
+
+    .task1head{
+        border-top-left-radius: 10px;
+        border-top-right-radius: 10px;
+        background-color: black;
+        top: 5px;
+        color: white;
+        height: 25px;
+        justify-content: center;
+        text-align: center;
+        font-size: 18px;
+        font-weight: 300;
+    }
+
+    .text1{
+        padding: 15px;
+        font-weight: 600;
+
+    }
+
+    .task2{
+        background-color: whitesmoke;
+        position: absolute;
+        width: 448px;
+        height: 627px;
+        left: 768px;
+        top: 399px;
+        border-radius: 10px;
+
+    }
+
+    .thread{
+        padding-top: 12px;
+        padding-bottom: 12px;
+        margin-top: 25px;
+        text-align: left;
+        top: 40px;
+        background: rgb(239, 243, 233);
+        width: 100%;
+        border-top: 1px solid black;
+        border-bottom: 1px solid black;
+        font-size: 20px;
+
+    }
+
+
+    .inputcontainer{
+        margin-top: 20px;
+        height: 60px;
+        width: 130px;
+        margin: 32px;
+        
+        float: left;
+        padding-left: 6px;
+        padding-right: 12px;
+        padding-bottom: 22px;
+        background-color:rgb(230, 230, 230);
+        border-radius: 10px;
+    }
+
+    .label{
+        top: 0;
+        background-color:rgb(230, 230, 230);
+        font-size: 15px;
+    }
+
+    .input{
+        border-radius: 5px;
+        height: 55px;
+        width: 130px;
+
+        background-color: aliceblue;
+    }
+
+    .options{
+        
+        margin-right: 50px;
+        float: right;
+
+    }
+
+    #cars{
+        padding :5px;
+        background-color: white;
+        border-radius: 5px;
+        height: 25px;
+        margin-right: 12px;
+    }
+
+    .btn{
+        margin-left: 35px;
+        margin-top: 190px;
+        color: black;
+    }
+
+    .btn1{
+        float: right;
+        margin-left: 35px;
+        margin-top: 25px;
+        color: black;
+    }
+
+
+    .btnn{
+        color: white;
+        font-size: 15px;
+        border-radius: 5px;;
+        border: 1px solid white;
+        padding: 15px;
+        background-color: blue;
+    }
+    #textarea{
+        width: 342px ;
+        
+    }
+    #inputarea{width: 340px;
+
+        background-color: aliceblue;
+    }
+
+    .para{
+        display: inline;
+        margin-left: 35px;
+    }
+
+    .task3{
+        position: absolute;
+        width: 456px;
+        height: 22px;
+        left: 264px;
+        top: 1053px;
+        
+        border-radius: 10px;
+    }
+
+
+    .textarea{
+        border-radius: 5px;
+        margin: 15px;
+        padding: 5px;
+        
+    }
+    .tast4{
+        position: absolute;
+        width: 452px;
+        height: 510px;
+        left: 768px;
+        top: 1053px;
+        border-radius: 10px;
+   
+    }
+    .ipdf{
+        border-radius: 10px;
+        padding: 15px;
+    }
+
+    .task5{
+        position: absolute;
+width: 452px;
+height: 811px;
+left: 268px;
+top: 1726px;
+    }
+
+    .task6{
+        
+position: absolute;
+width: 472px;
+height: 222px;
+left: 768px;
+top: 1700px;
+    }
+
+    .audio{
+        border-radius: 10px;
+       width: 320px;
+        margin: 25px;
+        background: gray;
+        padding :50px;
+    }
+
+    .task7{
+        position: absolute;
+width: 498px;
+height: 345px;
+left: 496px;
+top: 2703px;
+    }
+    .video{
+        border-radius: 10px;
+        width: 320px;
+        margin: 25px;
+       
+        width: 450px;
+    }
